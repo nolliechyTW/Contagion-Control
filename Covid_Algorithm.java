@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Covid_Algorith {
+public class Covid_Algorithm {
 	
 	public static void main (String [] args) {
 		
